@@ -49,6 +49,7 @@
   "products": [
     {
       "id": "MCPForUnity",
+      "cardFile": "MCPForUnity.jpg",
       "name": "MCP Plugin for Unity",
       "storeName": "AnkleBreaker MCP Plugin for Unity",
       "status": "published",
@@ -70,6 +71,7 @@
     },
     {
       "id": "Tombstack",
+      "cardFile": "Tombstack.jpg",
       "name": "Tombstack",
       "storeName": "Tombstack - Analytics System",
       "status": "published",
@@ -91,6 +93,7 @@
     },
     {
       "id": "Changeling",
+      "cardFile": "Changeling.jpg",
       "name": "Changeling",
       "storeName": "Changeling - AAA Character Customisation",
       "status": "published",
@@ -114,6 +117,7 @@
     },
     {
       "id": "Gatling",
+      "cardFile": "Gatling.jpg",
       "name": "Gatling",
       "storeName": "Gatling - Projectile & Ballistics System",
       "status": "published",
@@ -135,6 +139,7 @@
     },
     {
       "id": "Engraver",
+      "cardFile": "Engraver.jpg",
       "name": "Engraver",
       "storeName": "Engraver - Saving System",
       "status": "published",
@@ -156,6 +161,7 @@
     },
     {
       "id": "RadialMenu",
+      "cardFile": "RadialMenu.jpg",
       "name": "Radial Menu Toolkit",
       "storeName": "Radial Menu Toolkit",
       "status": "published",
@@ -176,6 +182,7 @@
     },
     {
       "id": "PopupMaster",
+      "cardFile": "PopupMaster.jpg",
       "name": "Popup Master",
       "storeName": "Popup Master - Toast, Banner, Modal window and more",
       "status": "published",
@@ -196,6 +203,7 @@
     },
     {
       "id": "TweenInInspector",
+      "cardFile": "TweenInInspector.jpg",
       "name": "Tween In Inspector",
       "storeName": "Tween In Inspector - Animate UI in few clicks",
       "status": "published",
@@ -216,6 +224,7 @@
     },
     {
       "id": "MapGUIPro",
+      "cardFile": "MapGUIPro.jpg",
       "name": "Map GUI Pro",
       "storeName": "Map GUI Pro - Minimap, Map & Compass",
       "status": "published",
@@ -235,6 +244,7 @@
     },
     {
       "id": "Cartograph",
+      "cardFile": "Cartograph.jpg",
       "name": "Cartograph",
       "storeName": "CARTOGRAPH - Map Texture Drawer",
       "status": "published",
@@ -254,6 +264,7 @@
     },
     {
       "id": "CinematicCameraController",
+      "cardFile": "CinematicCameraController.jpg",
       "name": "Cinematic Camera Controller",
       "storeName": "Cinematic Camera Controller",
       "status": "published",
@@ -272,6 +283,7 @@
     },
     {
       "id": "ManagersLoader",
+      "cardFile": "ManagersLoader.jpg",
       "name": "Managers Loader System",
       "storeName": "Managers Loader System",
       "status": "published",
@@ -290,6 +302,7 @@
     },
     {
       "id": "ManagersLoaderFishNet",
+      "cardFile": "ManagersLoaderFishNet.jpg",
       "name": "FishNet Add-on for Managers Loader",
       "storeName": "Fishnet Addon For Managers Loader System",
       "status": "published",
@@ -308,6 +321,7 @@
     },
     {
       "id": "FluidVolumesAndPotions",
+      "cardFile": "FluidVolumesAndPotions.jpg",
       "name": "Potion & Liquid Master",
       "storeName": "",
       "status": "coming-soon",
@@ -325,6 +339,7 @@
     },
     {
       "id": "GatlingFishNet",
+      "cardFile": "GatlingFishNet.jpg",
       "name": "Gatling for FishNet",
       "storeName": "",
       "status": "coming-soon",
@@ -342,6 +357,7 @@
     },
     {
       "id": "InventoryMaster",
+      "cardFile": "InventoryMaster.jpg",
       "name": "Inventory Master",
       "storeName": "",
       "status": "coming-soon",
@@ -359,6 +375,7 @@
     },
     {
       "id": "HotbarMaster",
+      "cardFile": "HotbarMaster.jpg",
       "name": "Hotbar Master",
       "storeName": "",
       "status": "coming-soon",
@@ -376,6 +393,7 @@
     },
     {
       "id": "BeautifulSky",
+      "cardFile": "BeautifulSky.jpg",
       "name": "Beautiful Sky",
       "storeName": "",
       "status": "coming-soon",
@@ -393,6 +411,7 @@
     },
     {
       "id": "Cauldron",
+      "cardFile": "Cauldron.jpg",
       "name": "Stylized Cauldron",
       "storeName": "Stylized Cauldron - 3 Tiers - AAA quality",
       "status": "published",
@@ -416,6 +435,7 @@
     },
     {
       "id": "CashRegister",
+      "cardFile": "CashRegister.jpg",
       "name": "Stylized Cash Register",
       "storeName": "Stylized Cash Register & Icons - 3 Tiers - AAA Quality",
       "status": "published",
@@ -439,6 +459,7 @@
     },
     {
       "id": "Counters",
+      "cardFile": "Counters.jpg",
       "name": "Stylized Counters",
       "storeName": "Stylized Counters & Icons - 3 Tiers - AAA Quality",
       "status": "published",
@@ -462,6 +483,7 @@
     },
     {
       "id": "LeatherWorkbench2",
+      "cardFile": "LeatherWorkbench2.jpg",
       "name": "Leather Workbench #2",
       "storeName": "Stylized Leather Workbench #2 - 3 Tiers- AAA quality",
       "status": "published",
@@ -485,6 +507,7 @@
     },
     {
       "id": "EnvironmentRocks",
+      "cardFile": "EnvironmentRocks.jpg",
       "name": "Stylized Environment Rocks",
       "storeName": "",
       "status": "coming-soon",
@@ -502,6 +525,7 @@
     },
     {
       "id": "Stylized322748",
+      "cardFile": "StylizedBlacksmithWorkbenches.jpg",
       "name": "Stylized Blacksmith Workbenches",
       "storeName": "Stylized Blacksmith Workbenches & Icons",
       "status": "published",
@@ -516,10 +540,11 @@
       "price": "$12.50",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized322748.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedBlacksmithWorkbenches.jpg"
     },
     {
       "id": "Stylized326495",
+      "cardFile": "StylizedBrewingStation.jpg",
       "name": "Stylized Brewing Station",
       "storeName": "Stylized Brewing Station & Icons",
       "status": "published",
@@ -534,10 +559,11 @@
       "price": "$12.50",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized326495.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedBrewingStation.jpg"
     },
     {
       "id": "Stylized324147",
+      "cardFile": "StylizedCookingWorkbenchesItems.jpg",
       "name": "Stylized Cooking Workbenches, Items",
       "storeName": "Stylized Cooking Workbenches, Items & Icons",
       "status": "published",
@@ -552,10 +578,11 @@
       "price": "$37.50",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized324147.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedCookingWorkbenchesItems.jpg"
     },
     {
       "id": "Stylized324059",
+      "cardFile": "StylizedEngineerWorkbenches.jpg",
       "name": "Stylized Engineer Workbenches",
       "storeName": "Stylized Engineer Workbenches & Icons",
       "status": "published",
@@ -570,10 +597,11 @@
       "price": "$12.50",
       "reviews": 1,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized324059.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedEngineerWorkbenches.jpg"
     },
     {
       "id": "Stylized319673",
+      "cardFile": "StylizedFantasyGreatSwords.jpg",
       "name": "Stylized Fantasy GreatSwords",
       "storeName": "Stylized Fantasy GreatSwords & Icons",
       "status": "published",
@@ -589,11 +617,12 @@
       "rating": 5.0,
       "reviews": 3,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized319673.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyGreatSwords.jpg"
     },
     {
       "id": "Stylized319676",
-      "name": "Stylized Fantasy Resources",
+      "cardFile": "StylizedFantasyResourcesMinerals.jpg",
+      "name": "Stylized Fantasy Resources - Minerals",
       "storeName": "Stylized Fantasy Resources & Icons - Minerals",
       "status": "published",
       "url": "https://assetstore.unity.com/packages/3d/environments/stylized-fantasy-resources-icons-minerals-319676",
@@ -607,11 +636,12 @@
       "price": "$10",
       "reviews": 2,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized319676.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyResourcesMinerals.jpg"
     },
     {
       "id": "Stylized319675",
-      "name": "Stylized Fantasy Resources",
+      "cardFile": "StylizedFantasyResourcesRocks.jpg",
+      "name": "Stylized Fantasy Resources - Rocks",
       "storeName": "Stylized Fantasy Resources & Icons - Rocks",
       "status": "published",
       "url": "https://assetstore.unity.com/packages/3d/environments/stylized-fantasy-resources-icons-rocks-319675",
@@ -625,10 +655,11 @@
       "price": "$10",
       "reviews": 2,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized319675.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyResourcesRocks.jpg"
     },
     {
       "id": "Stylized319674",
+      "cardFile": "StylizedFantasyRoundedShields.jpg",
       "name": "Stylized Fantasy Rounded Shields",
       "storeName": "Stylized Fantasy Rounded Shields & Icons",
       "status": "published",
@@ -644,10 +675,11 @@
       "rating": 5.0,
       "reviews": 3,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized319674.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyRoundedShields.jpg"
     },
     {
       "id": "Stylized322140",
+      "cardFile": "StylizedFantasySpears.jpg",
       "name": "Stylized Fantasy Spears",
       "storeName": "Stylized Fantasy Spears & Icons",
       "status": "published",
@@ -662,10 +694,11 @@
       "price": "$21.50",
       "reviews": 1,
       "version": "1.1",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized322140.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasySpears.jpg"
     },
     {
       "id": "Stylized319672",
+      "cardFile": "StylizedFantasySwords.jpg",
       "name": "Stylized Fantasy Swords",
       "storeName": "Stylized Fantasy Swords & Icons",
       "status": "published",
@@ -681,10 +714,11 @@
       "rating": 5.0,
       "reviews": 3,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized319672.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasySwords.jpg"
     },
     {
       "id": "Stylized319677",
+      "cardFile": "StylizedFantasyTools.jpg",
       "name": "Stylized Fantasy Tools",
       "storeName": "Stylized Fantasy Tools & Icons",
       "status": "published",
@@ -699,10 +733,11 @@
       "price": "$10",
       "reviews": 2,
       "version": "1.1",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized319677.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyTools.jpg"
     },
     {
       "id": "Stylized320457",
+      "cardFile": "StylizedFantasyTowershields.jpg",
       "name": "Stylized Fantasy Towershields",
       "storeName": "Stylized Fantasy Towershields & Icons",
       "status": "published",
@@ -717,10 +752,11 @@
       "price": "$23.75",
       "reviews": 0,
       "version": "1.1",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized320457.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyTowershields.jpg"
     },
     {
       "id": "Stylized323863",
+      "cardFile": "StylizedFurnaces.jpg",
       "name": "Stylized Furnaces",
       "storeName": "Stylized Furnaces & Icons",
       "status": "published",
@@ -735,10 +771,11 @@
       "price": "$25",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized323863.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFurnaces.jpg"
     },
     {
       "id": "Stylized325259",
+      "cardFile": "StylizedGoblinsArcherWarrior.jpg",
       "name": "Stylized Goblins Archer & Warrior",
       "storeName": "Stylized Goblins Archer & Warrior",
       "status": "published",
@@ -753,10 +790,11 @@
       "price": "$36.50",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized325259.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedGoblinsArcherWarrior.jpg"
     },
     {
       "id": "Stylized322830",
+      "cardFile": "StylizedGrinderWorkbenches.jpg",
       "name": "Stylized Grinder Workbenches",
       "storeName": "Stylized Grinder Workbenches & Icons",
       "status": "published",
@@ -771,10 +809,11 @@
       "price": "$12.50",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized322830.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedGrinderWorkbenches.jpg"
     },
     {
       "id": "Stylized321828",
+      "cardFile": "StylizedIbex.jpg",
       "name": "Stylized Ibex",
       "storeName": "Stylized Ibex | Animations & Icons",
       "status": "published",
@@ -789,10 +828,11 @@
       "price": "$20",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized321828.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedIbex.jpg"
     },
     {
       "id": "Stylized323982",
+      "cardFile": "StylizedLeatherWorkbenches.jpg",
       "name": "Stylized Leather Workbenches",
       "storeName": "Stylized Leather Workbenches & Icons",
       "status": "published",
@@ -807,10 +847,11 @@
       "price": "$12.50",
       "reviews": 1,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized323982.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedLeatherWorkbenches.jpg"
     },
     {
       "id": "Stylized323273",
+      "cardFile": "StylizedMeleeWeaponsShieldsMegapack1.jpg",
       "name": "Stylized Melee Weapons & Shields",
       "storeName": "Stylized Melee Weapons & Shields | MEGAPACK#1",
       "status": "published",
@@ -825,10 +866,11 @@
       "price": "$68",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized323273.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedMeleeWeaponsShieldsMegapack1.jpg"
     },
     {
       "id": "Stylized327229",
+      "cardFile": "StylizedRangedWeapons.jpg",
       "name": "Stylized Ranged Weapons",
       "storeName": "Stylized Ranged Weapons & Icons",
       "status": "published",
@@ -843,10 +885,11 @@
       "price": "$18.75",
       "reviews": 1,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized327229.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedRangedWeapons.jpg"
     },
     {
       "id": "Stylized322866",
+      "cardFile": "StylizedTailorWorkbench.jpg",
       "name": "Stylized Tailor Workbench",
       "storeName": "Stylized Tailor Workbench & Icons",
       "status": "published",
@@ -861,10 +904,11 @@
       "price": "$12.50",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized322866.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedTailorWorkbench.jpg"
     },
     {
       "id": "Stylized322652",
+      "cardFile": "StylizedWoodWorkbench.jpg",
       "name": "Stylized Wood Workbench",
       "storeName": "Stylized Wood Workbench & Icons",
       "status": "published",
@@ -879,10 +923,11 @@
       "price": "$12.50",
       "reviews": 1,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized322652.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedWoodWorkbench.jpg"
     },
     {
       "id": "Stylized327038",
+      "cardFile": "StylizedWorkbenchesMegapack2.jpg",
       "name": "Stylized Workbenches",
       "storeName": "Stylized Workbenches | MEGAPACK#2",
       "status": "published",
@@ -897,7 +942,7 @@
       "price": "$125",
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Stylized327038.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedWorkbenchesMegapack2.jpg"
     }
   ]
 }
