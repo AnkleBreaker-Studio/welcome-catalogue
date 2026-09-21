@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -18,7 +18,7 @@
     {
       "eyebrow": "ANKLEBREAKER STUDIO",
       "title": "Build the rest of your game",
-      "blurb": "More tools from the people who made Changeling.",
+      "blurb": "More tools from AnkleBreaker Studio.",
       "shelf": [
         {
           "id": "InventoryMaster"
@@ -38,11 +38,9 @@
     },
     {
       "eyebrow": "",
-      "title": "More 3D props from us",
-      "blurb": "",
-      "family": "tavern",
-      "seeAll": "See all {n} stylized packs",
-      "seeAllFilter": "cat:3D",
+      "title": "Build the rest of your game",
+      "blurb": "More tools from AnkleBreaker Studio.",
+      "seeAll": "See all {n} assets",
       "id": "Cauldron"
     }
   ],
