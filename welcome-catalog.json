@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-09-22",
+  "updated": "2026-09-24",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -156,7 +156,7 @@
     {
       "id": "MCPForUnity",
       "cardFile": "MCPForUnity.jpg",
-      "name": "MCP Plugin for Unity",
+      "name": "Unity MCP",
       "storeName": "AnkleBreaker MCP Plugin for Unity",
       "status": "published",
       "releasedAt": "2026-09-01T10:55:16Z",
@@ -168,9 +168,11 @@
       "blurb": "Let your AI agent work inside the Unity Editor.",
       "detect": [
         "folder:Assets/AB/MCPForUnity",
-        "package:com.anklebreaker.unity-mcp"
+        "package:com.anklebreaker.unity-mcp",
+        "welcome:MCPForUnity",
+        "asm:AnkleBreaker.MCPForUnity.Editor"
       ],
-      "window": "Window/MCP Dashboard",
+      "window": "Window/AB Unity MCP/Dashboard",
       "price": "Free",
       "reviews": 0,
       "version": "1.0",
@@ -191,7 +193,9 @@
       "blurb": "Track crashes, exceptions and play sessions.",
       "detect": [
         "folder:Assets/AB/TombstackForUnity",
-        "folder:Assets/AB/Tombstack"
+        "folder:Assets/AB/Tombstack",
+        "welcome:Tombstack",
+        "asm:AnkleBreaker.TombstackForUnity.Installer.Editor"
       ],
       "window": "",
       "price": "Free",
@@ -214,7 +218,8 @@
       "blurb": "Dressable characters, merged into one mesh at runtime.",
       "detect": [
         "asm:AnkleBreaker.Changeling",
-        "folder:Assets/AB/Changeling"
+        "folder:Assets/AB/Changeling",
+        "welcome:Changeling"
       ],
       "window": "Tools/AnkleBreaker/Changeling/Welcome",
       "price": "$49.99",
@@ -238,7 +243,9 @@
       "family": "",
       "blurb": "Thousands of live projectiles, hitscan and travel time.",
       "detect": [
-        "folder:Assets/AB/Gatling"
+        "folder:Assets/AB/Gatling",
+        "welcome:Gatling",
+        "asm:AnkleBreaker.Gatling.Runtime"
       ],
       "window": "",
       "price": "$99",
@@ -261,7 +268,9 @@
       "family": "",
       "blurb": "Crash-safe save and load, with history and migration.",
       "detect": [
-        "folder:Assets/AB/Engraver"
+        "folder:Assets/AB/Engraver",
+        "welcome:Engraver",
+        "asm:AnkleBreaker.Engraver"
       ],
       "window": "",
       "price": "$49.90",
@@ -284,7 +293,9 @@
       "family": "",
       "blurb": "Radial menus from 10 presets, editable at runtime.",
       "detect": [
-        "folder:Assets/AB/RadialMenu"
+        "folder:Assets/AB/RadialMenu",
+        "welcome:RadialMenu",
+        "asm:AnkleBreaker.RadialMenu"
       ],
       "window": "Tools/AnkleBreaker/Radial Menu/Welcome",
       "price": "$29.99",
@@ -306,7 +317,9 @@
       "family": "",
       "blurb": "Toasts, banners, modals and combat text in UI Toolkit.",
       "detect": [
-        "folder:Assets/AB/PopupMaster"
+        "folder:Assets/AB/PopupMaster",
+        "welcome:PopupMaster",
+        "asm:AnkleBreaker.PopupMaster"
       ],
       "window": "",
       "price": "$39.99",
@@ -328,7 +341,9 @@
       "family": "",
       "blurb": "Tweens authored in the Inspector, with a timeline.",
       "detect": [
-        "folder:Assets/AB/TweenInInspector"
+        "folder:Assets/AB/TweenInInspector",
+        "welcome:TweenInInspector",
+        "asm:AnkleBreaker.TweenInInspector"
       ],
       "window": "",
       "price": "$29.99",
@@ -349,7 +364,11 @@
       "pinned": false,
       "family": "",
       "blurb": "Minimap, compass and fullscreen map, in UI Toolkit.",
-      "detect": [],
+      "detect": [
+        "welcome:MapGUIPro",
+        "asm:AnkleBreaker.MapGuiPro.Core",
+        "folder:Assets/AB/MapGuiPro"
+      ],
       "window": "",
       "price": "$59.99",
       "rating": 5.0,
@@ -370,7 +389,11 @@
       "pinned": false,
       "family": "",
       "blurb": "Minimap textures drawn from any Unity scene.",
-      "detect": [],
+      "detect": [
+        "welcome:Cartograph",
+        "asm:AnkleBreaker.Cartograph.Shared.Editor",
+        "folder:Assets/AB/Cartograph"
+      ],
       "window": "",
       "price": "$39.99",
       "rating": 5.0,
@@ -391,7 +414,11 @@
       "pinned": false,
       "family": "",
       "blurb": "Waypoint camera paths, with Timeline and Cinemachine 3.",
-      "detect": [],
+      "detect": [
+        "welcome:CinematicCameraController",
+        "asm:AnkleBreaker.CinematicCameraController.Runtime",
+        "folder:Assets/AB/CinematicCameraController"
+      ],
       "window": "",
       "price": "$24.99",
       "reviews": 1,
@@ -411,7 +438,11 @@
       "pinned": false,
       "family": "",
       "blurb": "Scene-driven manager start-up with dependency resolution.",
-      "detect": [],
+      "detect": [
+        "welcome:ManagersLoader",
+        "asm:AnkleBreaker.ManagersLoader",
+        "folder:Assets/AB/Managers-Loader"
+      ],
       "window": "",
       "price": "$24.99",
       "reviews": 0,
@@ -431,7 +462,11 @@
       "pinned": false,
       "family": "",
       "blurb": "Networked, server-only and client-only managers.",
-      "detect": [],
+      "detect": [
+        "welcome:ManagersLoaderFishNet",
+        "asm:AnkleBreaker.ManagersLoader.Fishnet",
+        "folder:Assets/AB/FishNet-Managers-Loader"
+      ],
       "window": "",
       "price": "$12.99",
       "reviews": 0,
@@ -440,22 +475,29 @@
     },
     {
       "id": "FluidVolumesAndPotions",
-      "cardFile": "FluidVolumesAndPotions.jpg",
+      "cardFile": "PotionLiquidMaster.jpg",
       "name": "Potion & Liquid Master",
-      "storeName": "",
-      "status": "coming-soon",
-      "releasedAt": "",
-      "url": "https://assetstore.unity.com/packages/slug/400448",
+      "storeName": "Potion & Liquid Master - AAA Quality",
+      "status": "published",
+      "releasedAt": "2026-09-23T20:01:10Z",
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/potion-liquid-master-aaa-quality-400448",
       "category": "VFX / Shaders",
       "free": false,
       "pinned": false,
       "family": "",
       "blurb": "Real liquid in any closed mesh. Tip it, shake it, drink it.",
       "detect": [
-        "folder:Assets/AB/FluidVolumesAndPotions"
+        "folder:Assets/AB/FluidVolumesAndPotions",
+        "welcome:FluidVolumesAndPotions",
+        "asm:AnkleBreaker.FluidVolumesAndPotions"
       ],
       "window": "Tools/AnkleBreaker/Fluid Volumes and Potions/Welcome",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/FluidVolumesAndPotions.jpg"
+      "price": "$29.99",
+      "originalPrice": "$59.99",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/PotionLiquidMaster.jpg"
     },
     {
       "id": "GatlingFishNet",
@@ -471,7 +513,9 @@
       "family": "",
       "blurb": "Gatling's multiplayer add-on, with lag compensation.",
       "detect": [
-        "folder:Assets/AB/GatlingFishNet"
+        "folder:Assets/AB/GatlingFishNet",
+        "welcome:GatlingFishNet",
+        "asm:AnkleBreaker.Gatling.FishNet"
       ],
       "window": "",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/GatlingFishNet.jpg"
@@ -576,9 +620,7 @@
         "folder:Assets/AB_Stylized/1_Props/Furnitures/CashRegister"
       ],
       "window": "",
-      "price": "$7.50",
-      "originalPrice": "$15",
-      "discount": 50,
+      "price": "$15",
       "reviews": 0,
       "version": "1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/CashRegister.jpg"
@@ -601,9 +643,7 @@
         "folder:Assets/AB_Stylized/1_Props/Furnitures/Counters"
       ],
       "window": "",
-      "price": "$12.50",
-      "originalPrice": "$25",
-      "discount": 50,
+      "price": "$25",
       "reviews": 0,
       "version": "1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Counters.jpg"
