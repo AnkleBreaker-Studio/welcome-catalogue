@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-03",
+  "updated": "2026-10-05",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -544,7 +544,7 @@
     },
     {
       "id": "FluidVolumesAndPotions",
-      "cardFile": "PotionLiquidMaster.jpg",
+      "cardFile": "PotionLiquidMaster_v7.jpg",
       "name": "Potion & Liquid Master",
       "storeName": "Potion & Liquid Master - AAA Quality",
       "status": "published",
@@ -566,7 +566,7 @@
       "discount": 50,
       "reviews": 0,
       "version": "1.0",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/PotionLiquidMaster.jpg"
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/PotionLiquidMaster_v7.jpg"
     },
     {
       "id": "GatlingFishNet",
