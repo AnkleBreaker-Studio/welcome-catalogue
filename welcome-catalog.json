@@ -184,17 +184,17 @@
       "tagline": "AI CONTEXT FOR GAME TEAMS",
       "title": "Your AI changes. Your context stays.",
       "summary": "Nodary links your design docs, sheets, diagrams and decisions into one map that your team and your AI both read, with sources cited.",
-      "cover": "nodary-cover.jpg",
-      "logo": "nodary-logo.png",
+      "cover": "nodary-cover-20261006.jpg",
+      "logo": "nodary-logo-20261006.png",
       "links": [
         {
           "label": "Start for free",
-          "url": "https://nodary.ai/signup",
+          "url": "https://nodary.ai/sign-up",
           "primary": true
         },
         {
           "label": "Try a working example",
-          "url": "https://nodary.ai/demo/context"
+          "url": "https://nodary.ai/demo"
         }
       ],
       "featuresTitle": "What your team gets",
@@ -217,8 +217,8 @@
         }
       ],
       "footnote": "Built by AnkleBreaker Studio and used on all our projects. Free plan available at nodary.ai.",
-      "coverUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/nodary-cover.jpg",
-      "logoUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/nodary-logo.png"
+      "coverUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/nodary-cover-20261006.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/nodary-logo-20261006.png"
     }
   ],
   "products": [
