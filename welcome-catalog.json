@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-05",
+  "updated": "2026-10-09",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -89,7 +89,7 @@
       "name": "Mithrall",
       "tagline": "SANDBOX SURVIVAL & CONQUEST",
       "summary": "Explore a dwarven realm. Build, trade and fight to shape its future.",
-      "cover": "mithrall-hero.jpg",
+      "cover": "mithrall-hero-20261009.jpg",
       "logo": "mithrall-logo.png",
       "websiteUrl": "https://mithrall.com/",
       "steamUrl": "https://store.steampowered.com/app/2838890/Mithrall/",
@@ -148,7 +148,7 @@
           "role": "game"
         }
       ],
-      "coverUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/mithrall-hero.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/mithrall-hero-20261009.jpg",
       "logoUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/mithrall-logo.png"
     }
   ],
@@ -243,7 +243,7 @@
       ],
       "window": "Window/AB Unity MCP/Dashboard",
       "price": "Free",
-      "reviews": 0,
+      "reviews": 1,
       "version": "1.0.1",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/MCPForUnity.jpg"
     },
@@ -291,11 +291,9 @@
         "welcome:Changeling"
       ],
       "window": "Tools/AnkleBreaker/Changeling/Welcome",
-      "price": "$49.99",
-      "originalPrice": "$99.99",
-      "discount": 50,
+      "price": "$99.99",
       "reviews": 1,
-      "version": "1.0",
+      "version": "1.0.1",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Changeling.jpg"
     },
     {
@@ -345,7 +343,7 @@
       "price": "$49.90",
       "rating": 5.0,
       "reviews": 4,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Engraver.jpg"
     },
     {
@@ -369,7 +367,7 @@
       "window": "Tools/AnkleBreaker/Radial Menu/Welcome",
       "price": "$29.99",
       "reviews": 2,
-      "version": "1.1.1",
+      "version": "1.1.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/RadialMenu.jpg"
     },
     {
@@ -393,7 +391,7 @@
       "window": "",
       "price": "$39.99",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.0.1",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/PopupMaster.jpg"
     },
     {
@@ -417,7 +415,7 @@
       "window": "",
       "price": "$29.99",
       "reviews": 2,
-      "version": "1.1.1",
+      "version": "1.1.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/TweenInInspector.jpg"
     },
     {
@@ -442,7 +440,7 @@
       "price": "$59.99",
       "rating": 5.0,
       "reviews": 5,
-      "version": "1.0",
+      "version": "1.0.1",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/MapGUIPro.jpg"
     },
     {
@@ -467,7 +465,7 @@
       "price": "$39.99",
       "rating": 5.0,
       "reviews": 7,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Cartograph.jpg"
     },
     {
@@ -491,7 +489,7 @@
       "window": "",
       "price": "$24.99",
       "reviews": 1,
-      "version": "1.1.1",
+      "version": "1.1.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/CinematicCameraController.jpg"
     },
     {
@@ -515,7 +513,7 @@
       "window": "",
       "price": "$24.99",
       "reviews": 0,
-      "version": "1.3.9",
+      "version": "1.4.3",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/ManagersLoader.jpg"
     },
     {
@@ -539,7 +537,7 @@
       "window": "",
       "price": "$12.99",
       "reviews": 0,
-      "version": "1.4",
+      "version": "1.5.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/ManagersLoaderFishNet.jpg"
     },
     {
@@ -561,11 +559,9 @@
         "asm:AnkleBreaker.FluidVolumesAndPotions"
       ],
       "window": "Tools/AnkleBreaker/Fluid Volumes and Potions/Welcome",
-      "price": "$29.99",
-      "originalPrice": "$59.99",
-      "discount": 50,
-      "reviews": 0,
-      "version": "1.0",
+      "price": "$59.99",
+      "reviews": 1,
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/PotionLiquidMaster_v7.jpg"
     },
     {
@@ -587,9 +583,7 @@
         "asm:AnkleBreaker.Gatling.FishNet"
       ],
       "window": "",
-      "price": "$49.99",
-      "originalPrice": "$99.99",
-      "discount": 50,
+      "price": "$99.99",
       "reviews": 0,
       "version": "1.0.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/GatlingFishNet.jpg"
@@ -692,7 +686,7 @@
       "window": "",
       "price": "$25",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Cauldron.jpg"
     },
     {
@@ -715,7 +709,7 @@
       "window": "",
       "price": "$15",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/CashRegister.jpg"
     },
     {
@@ -738,7 +732,7 @@
       "window": "",
       "price": "$25",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Counters.jpg"
     },
     {
@@ -761,17 +755,17 @@
       "window": "",
       "price": "$29.99",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/LeatherWorkbench2.jpg"
     },
     {
       "id": "EnvironmentRocks",
       "cardFile": "EnvironmentRocks.jpg",
       "name": "Stylized Environment Rocks",
-      "storeName": "",
-      "status": "coming-soon",
-      "releasedAt": "",
-      "url": "https://assetstore.unity.com/packages/slug/400450",
+      "storeName": "Stylized Environment Rocks - AAA quality",
+      "status": "published",
+      "releasedAt": "2026-10-06T13:45:10Z",
+      "url": "https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-environment-rocks-aaa-quality-400450",
       "category": "3D / Environments / Landscapes",
       "free": false,
       "pinned": false,
@@ -781,6 +775,11 @@
         "welcome:EnvironmentRocks"
       ],
       "window": "",
+      "price": "$7.50",
+      "originalPrice": "$15",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/EnvironmentRocks.jpg"
     },
     {
@@ -800,7 +799,7 @@
       "window": "",
       "price": "$12.50",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedBlacksmithWorkbenches.jpg"
     },
     {
@@ -820,7 +819,7 @@
       "window": "",
       "price": "$12.50",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedBrewingStation.jpg"
     },
     {
@@ -840,7 +839,7 @@
       "window": "",
       "price": "$37.50",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedCookingWorkbenchesItems.jpg"
     },
     {
@@ -860,7 +859,7 @@
       "window": "",
       "price": "$12.50",
       "reviews": 1,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedEngineerWorkbenches.jpg"
     },
     {
@@ -881,7 +880,7 @@
       "price": "$10",
       "rating": 5.0,
       "reviews": 3,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyGreatSwords.jpg"
     },
     {
@@ -901,7 +900,7 @@
       "window": "",
       "price": "$10",
       "reviews": 2,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyResourcesMinerals.jpg"
     },
     {
@@ -921,7 +920,7 @@
       "window": "",
       "price": "$10",
       "reviews": 2,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyResourcesRocks.jpg"
     },
     {
@@ -942,7 +941,7 @@
       "price": "$10",
       "rating": 5.0,
       "reviews": 3,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyRoundedShields.jpg"
     },
     {
@@ -962,7 +961,7 @@
       "window": "",
       "price": "$21.50",
       "reviews": 1,
-      "version": "1.1",
+      "version": "1.2.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasySpears.jpg"
     },
     {
@@ -983,7 +982,7 @@
       "price": "$10",
       "rating": 5.0,
       "reviews": 3,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasySwords.jpg"
     },
     {
@@ -1003,7 +1002,7 @@
       "window": "",
       "price": "$10",
       "reviews": 2,
-      "version": "1.1",
+      "version": "1.2.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyTools.jpg"
     },
     {
@@ -1023,7 +1022,7 @@
       "window": "",
       "price": "$23.75",
       "reviews": 0,
-      "version": "1.1",
+      "version": "1.2.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFantasyTowershields.jpg"
     },
     {
@@ -1043,7 +1042,7 @@
       "window": "",
       "price": "$25",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedFurnaces.jpg"
     },
     {
@@ -1063,7 +1062,7 @@
       "window": "",
       "price": "$36.50",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedGoblinsArcherWarrior.jpg"
     },
     {
@@ -1083,7 +1082,7 @@
       "window": "",
       "price": "$12.50",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedGrinderWorkbenches.jpg"
     },
     {
@@ -1103,7 +1102,7 @@
       "window": "",
       "price": "$20",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedIbex.jpg"
     },
     {
@@ -1123,17 +1122,17 @@
       "window": "",
       "price": "$12.50",
       "reviews": 1,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedLeatherWorkbenches.jpg"
     },
     {
       "id": "Stylized323273",
       "cardFile": "StylizedMeleeWeaponsShieldsMegapack1.jpg",
       "name": "Stylized Melee Weapons & Shields",
-      "storeName": "Stylized Melee Weapons & Shields | MEGAPACK#1",
+      "storeName": "Stylized Melee Weapons & Shields | MEGAPACK",
       "status": "published",
       "releasedAt": "2025-06-30T08:22:13Z",
-      "url": "https://assetstore.unity.com/packages/3d/props/weapons/stylized-melee-weapons-shields-megapack-1-323273",
+      "url": "https://assetstore.unity.com/packages/3d/props/weapons/stylized-melee-weapons-shields-megapack-323273",
       "category": "3D / Props / Weapons",
       "free": false,
       "pinned": false,
@@ -1143,7 +1142,7 @@
       "window": "",
       "price": "$68",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedMeleeWeaponsShieldsMegapack1.jpg"
     },
     {
@@ -1163,7 +1162,7 @@
       "window": "",
       "price": "$18.75",
       "reviews": 1,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedRangedWeapons.jpg"
     },
     {
@@ -1183,7 +1182,7 @@
       "window": "",
       "price": "$12.50",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedTailorWorkbench.jpg"
     },
     {
@@ -1203,17 +1202,17 @@
       "window": "",
       "price": "$12.50",
       "reviews": 1,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedWoodWorkbench.jpg"
     },
     {
       "id": "Stylized327038",
       "cardFile": "StylizedWorkbenchesMegapack2.jpg",
       "name": "Stylized Workbenches",
-      "storeName": "Stylized Workbenches | MEGAPACK#2",
+      "storeName": "Stylized Workbenches | MEGAPACK",
       "status": "published",
       "releasedAt": "2025-08-06T14:11:20Z",
-      "url": "https://assetstore.unity.com/packages/3d/props/furniture/stylized-workbenches-megapack-2-327038",
+      "url": "https://assetstore.unity.com/packages/3d/props/furniture/stylized-workbenches-megapack-327038",
       "category": "3D / Props / Furniture",
       "free": false,
       "pinned": false,
@@ -1223,7 +1222,7 @@
       "window": "",
       "price": "$125",
       "reviews": 0,
-      "version": "1.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/StylizedWorkbenchesMegapack2.jpg"
     }
   ]
