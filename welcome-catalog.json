@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -243,7 +243,7 @@
       ],
       "window": "Window/AB Unity MCP/Dashboard",
       "price": "Free",
-      "reviews": 1,
+      "reviews": 2,
       "version": "1.0.1",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/MCPForUnity.jpg"
     },
@@ -686,6 +686,32 @@
       ],
       "window": "",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BeautifulSky.jpg"
+    },
+    {
+      "id": "CullMaster",
+      "cardFile": "CullMaster.jpg",
+      "name": "CullMaster",
+      "storeName": "CullMaster - Rendering Optimization Tool",
+      "status": "published",
+      "releasedAt": "2026-10-14T12:29:09Z",
+      "url": "https://assetstore.unity.com/packages/tools/game-toolkits/cullmaster-rendering-optimization-tool-395608",
+      "category": "Tools / Game Toolkits",
+      "free": false,
+      "pinned": false,
+      "family": "",
+      "blurb": "Culling for rendering, animation, audio and ticks, measured.",
+      "detect": [
+        "folder:Assets/AB/CullMaster",
+        "welcome:CullMaster",
+        "asm:AnkleBreaker.CullMaster.Core"
+      ],
+      "window": "Tools/AnkleBreaker/CullMaster/Welcome",
+      "price": "$30",
+      "originalPrice": "$60",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/CullMaster.jpg"
     },
     {
       "id": "Cauldron",
