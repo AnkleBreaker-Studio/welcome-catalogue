@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-14",
+  "updated": "2026-10-22",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -243,7 +243,8 @@
       ],
       "window": "Window/AB Unity MCP/Dashboard",
       "price": "Free",
-      "reviews": 2,
+      "rating": 4.0,
+      "reviews": 3,
       "version": "1.0.1",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/MCPForUnity.jpg"
     },
@@ -293,7 +294,7 @@
       "window": "Tools/AnkleBreaker/Changeling/Welcome",
       "price": "$99.99",
       "reviews": 1,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Changeling.jpg"
     },
     {
@@ -341,8 +342,8 @@
       ],
       "window": "",
       "price": "$49.90",
-      "rating": 5.0,
-      "reviews": 4,
+      "rating": 4.0,
+      "reviews": 5,
       "version": "1.0.2",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Engraver.jpg"
     },
@@ -367,7 +368,7 @@
       "window": "Tools/AnkleBreaker/Radial Menu/Welcome",
       "price": "$29.99",
       "reviews": 2,
-      "version": "1.1.2",
+      "version": "1.2.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/RadialMenu.jpg"
     },
     {
@@ -592,10 +593,10 @@
       "id": "Telegraph",
       "cardFile": "Telegraph.jpg",
       "name": "Telegraph",
-      "storeName": "",
-      "status": "coming-soon",
-      "releasedAt": "",
-      "url": "https://assetstore.unity.com/packages/slug/400510",
+      "storeName": "Telegraph - Spell Indicator",
+      "status": "published",
+      "releasedAt": "2026-10-19T11:46:10Z",
+      "url": "https://assetstore.unity.com/packages/tools/particles-effects/telegraph-spell-indicator-400510",
       "category": "Tools / Particles & Effects",
       "free": false,
       "pinned": false,
@@ -607,16 +608,21 @@
         "asm:AnkleBreaker.Telegraph"
       ],
       "window": "Tools/AnkleBreaker/Telegraph/Welcome",
+      "price": "$30",
+      "originalPrice": "$60",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Telegraph.jpg"
     },
     {
       "id": "KeyboardAdapter",
       "cardFile": "KeyboardAdapter.jpg",
       "name": "Keyboard Adapter",
-      "storeName": "",
-      "status": "coming-soon",
-      "releasedAt": "",
-      "url": "https://assetstore.unity.com/packages/slug/416952",
+      "storeName": "Keyboard Adapter - Layout-Aware Input",
+      "status": "published",
+      "releasedAt": "2026-10-22T14:09:10Z",
+      "url": "https://assetstore.unity.com/packages/tools/input-management/keyboard-adapter-layout-aware-input-416952",
       "category": "Tools / Input Management",
       "free": false,
       "pinned": false,
@@ -628,6 +634,11 @@
         "asm:AnkleBreaker.KeyboardAdapter.Runtime"
       ],
       "window": "Tools/AnkleBreaker/Keyboard Adapter/Welcome",
+      "price": "$9.99",
+      "originalPrice": "$19.99",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/KeyboardAdapter.jpg"
     },
     {
@@ -822,12 +833,35 @@
         "welcome:EnvironmentRocks"
       ],
       "window": "",
-      "price": "$7.50",
-      "originalPrice": "$15",
-      "discount": 50,
+      "price": "$15",
       "reviews": 0,
       "version": "1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/EnvironmentRocks.jpg"
+    },
+    {
+      "id": "ElvesCharacters",
+      "cardFile": "ElvesCharacters.jpg",
+      "name": "Stylized Elves Characters",
+      "storeName": "Stylized Elves Characters - Facial & Body Rig",
+      "status": "published",
+      "releasedAt": "2026-10-22T14:01:10Z",
+      "url": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/stylized-elves-characters-facial-body-rig-400454",
+      "category": "3D / Characters / Humanoids / Fantasy",
+      "free": false,
+      "pinned": false,
+      "family": "",
+      "blurb": "40 dressed, animated elves with 22 facial poses, portraits and icons.",
+      "detect": [
+        "welcome:ElvesCharacters",
+        "folder:Assets/AB_Stylized/1_Characters/Humanoids/Elves"
+      ],
+      "window": "",
+      "price": "$49.99",
+      "originalPrice": "$99.99",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/ElvesCharacters.jpg"
     },
     {
       "id": "Stylized322748",
