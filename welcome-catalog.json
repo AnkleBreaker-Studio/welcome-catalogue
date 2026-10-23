@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -344,7 +344,7 @@
       "price": "$49.90",
       "rating": 4.0,
       "reviews": 5,
-      "version": "1.0.2",
+      "version": "1.0.3",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Engraver.jpg"
     },
     {
@@ -681,22 +681,29 @@
     },
     {
       "id": "BeautifulSky",
-      "cardFile": "BeautifulSky.jpg",
+      "cardFile": "BeautifulSky-store-20261023.jpg",
       "name": "Beautiful Sky",
-      "storeName": "",
-      "status": "coming-soon",
-      "releasedAt": "",
-      "url": "https://assetstore.unity.com/packages/slug/395604",
-      "category": "Tools / Integration",
+      "storeName": "Beautiful Sky - Sky, Weather & Day-Night System",
+      "status": "published",
+      "releasedAt": "2026-10-23T12:28:11Z",
+      "url": "https://assetstore.unity.com/packages/tools/particles-effects/beautiful-sky-sky-weather-day-night-system-395604",
+      "category": "Tools / Particles & Effects",
       "free": false,
       "pinned": false,
       "family": "",
-      "blurb": "",
+      "blurb": "Day, night and 20 weathers, with storms that roll in.",
       "detect": [
-        "folder:Assets/AB/BeautifulSky"
+        "folder:Assets/AB/BeautifulSky",
+        "welcome:BeautifulSky",
+        "asm:AnkleBreaker.BeautifulSky.Core"
       ],
-      "window": "",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BeautifulSky.jpg"
+      "window": "Tools/AnkleBreaker/BeautifulSky/Welcome",
+      "price": "$49.99",
+      "originalPrice": "$99.99",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0.0",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BeautifulSky-store-20261023.jpg"
     },
     {
       "id": "CullMaster",
