@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -678,6 +678,25 @@
       ],
       "window": "",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/HotbarMaster.jpg"
+    },
+    {
+      "id": "BridgeMaster",
+      "cardFile": "BridgeMaster.jpg",
+      "name": "Bridge Master",
+      "storeName": "",
+      "status": "coming-soon",
+      "releasedAt": "",
+      "url": "https://assetstore.unity.com/packages/slug/400456",
+      "category": "Tools / Level Design",
+      "free": false,
+      "pinned": false,
+      "family": "",
+      "blurb": "Stylized stone, timber and rope bridges, in the Editor or at runtime.",
+      "detect": [
+        "folder:Assets/AB/BridgeMaster"
+      ],
+      "window": "",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BridgeMaster.jpg"
     },
     {
       "id": "BeautifulSky",
