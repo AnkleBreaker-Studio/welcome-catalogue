@@ -691,7 +691,7 @@
       "free": false,
       "pinned": false,
       "family": "",
-      "blurb": "Stylized stone, timber and rope bridges, in the Editor or at runtime.",
+      "blurb": "Stone, timber and rope bridges, in the Editor or at runtime.",
       "detect": [
         "folder:Assets/AB/BridgeMaster"
       ],
