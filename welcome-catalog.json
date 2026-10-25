@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -45,45 +45,6 @@
     }
   ],
   "games": [
-    {
-      "id": "kickdom",
-      "name": "Kickdom",
-      "tagline": "REAL-TIME PVP FOOTBALL",
-      "summary": "Build your team. Turn the match around with game-changing items.",
-      "cover": "kickdom-hero.jpg",
-      "logo": "kickdom-logo.png",
-      "websiteUrl": "https://www.kickdom.gg/",
-      "steamUrl": "",
-      "steamLabel": "",
-      "products": [
-        {
-          "id": "Changeling",
-          "role": "game"
-        },
-        {
-          "id": "TweenInInspector",
-          "role": "game"
-        },
-        {
-          "id": "ManagersLoader",
-          "role": "game"
-        },
-        {
-          "id": "ManagersLoaderFishNet",
-          "role": "game"
-        },
-        {
-          "id": "Tombstack",
-          "role": "development"
-        },
-        {
-          "id": "MCPForUnity",
-          "role": "development"
-        }
-      ],
-      "coverUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/kickdom-hero.jpg",
-      "logoUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/games/kickdom-logo.png"
-    },
     {
       "id": "mithrall",
       "name": "Mithrall",
