@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "_generated": "by welcome.py catalog from products.json + the store; do not edit",
-  "updated": "2026-10-25",
+  "updated": "2026-11-03",
   "publisherUrl": "https://assetstore.unity.com/publishers/101837",
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
@@ -279,7 +279,7 @@
       "window": "",
       "price": "$99",
       "rating": 5.0,
-      "reviews": 4,
+      "reviews": 5,
       "version": "1.0.4",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Gatling.jpg"
     },
@@ -329,7 +329,7 @@
       "window": "Tools/AnkleBreaker/Radial Menu/Welcome",
       "price": "$29.99",
       "reviews": 2,
-      "version": "1.2.0",
+      "version": "1.3.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/RadialMenu.jpg"
     },
     {
@@ -569,9 +569,7 @@
         "asm:AnkleBreaker.Telegraph"
       ],
       "window": "Tools/AnkleBreaker/Telegraph/Welcome",
-      "price": "$30",
-      "originalPrice": "$60",
-      "discount": 50,
+      "price": "$60",
       "reviews": 0,
       "version": "1.0.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/Telegraph-duels-20261022.jpg"
@@ -642,12 +640,12 @@
     },
     {
       "id": "BridgeMaster",
-      "cardFile": "BridgeMaster.jpg",
+      "cardFile": "BridgeMaster-store-20261103.jpg",
       "name": "Bridge Master",
-      "storeName": "",
-      "status": "coming-soon",
-      "releasedAt": "",
-      "url": "https://assetstore.unity.com/packages/slug/400456",
+      "storeName": "Bridge Master - Stylized Bridge Builder",
+      "status": "published",
+      "releasedAt": "2026-10-28T15:24:14Z",
+      "url": "https://assetstore.unity.com/packages/tools/level-design/bridge-master-stylized-bridge-builder-400456",
       "category": "Tools / Level Design",
       "free": false,
       "pinned": false,
@@ -657,7 +655,12 @@
         "folder:Assets/AB/BridgeMaster"
       ],
       "window": "",
-      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BridgeMaster.jpg"
+      "price": "$17.49",
+      "originalPrice": "$34.99",
+      "discount": 50,
+      "reviews": 0,
+      "version": "1.0",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BridgeMaster-store-20261103.jpg"
     },
     {
       "id": "BeautifulSky",
@@ -682,8 +685,32 @@
       "originalPrice": "$99.99",
       "discount": 50,
       "reviews": 0,
-      "version": "1.0.0",
+      "version": "1.1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BeautifulSky-store-20261023.jpg"
+    },
+    {
+      "id": "BeautifulWater",
+      "cardFile": "BeautifulWater.jpg",
+      "name": "Beautiful Water",
+      "storeName": "Beautiful Water - Oceans, Lakes & Rivers",
+      "status": "published",
+      "releasedAt": "2026-11-03T13:31:10Z",
+      "url": "https://assetstore.unity.com/packages/tools/particles-effects/beautiful-water-oceans-lakes-rivers-400504",
+      "category": "Tools / Particles & Effects",
+      "free": false,
+      "pinned": false,
+      "family": "",
+      "blurb": "Oceans, coasts, lakes and rivers: what you see is what floats.",
+      "detect": [
+        "folder:Assets/AB/BeautifulWater",
+        "welcome:BeautifulWater",
+        "asm:AnkleBreaker.BeautifulWater"
+      ],
+      "window": "Tools/AnkleBreaker/Beautiful Water/Welcome",
+      "price": "$99.99",
+      "reviews": 0,
+      "version": "1.0.0",
+      "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/BeautifulWater.jpg"
     },
     {
       "id": "CullMaster",
@@ -704,9 +731,7 @@
         "asm:AnkleBreaker.CullMaster.Core"
       ],
       "window": "Tools/AnkleBreaker/CullMaster/Welcome",
-      "price": "$30",
-      "originalPrice": "$60",
-      "discount": 50,
+      "price": "$60",
       "reviews": 0,
       "version": "1.0",
       "cardUrl": "https://raw.githubusercontent.com/AnkleBreaker-Studio/welcome-catalogue/main/cards/CullMaster.jpg"
