@@ -6,7 +6,7 @@
   "discordUrl": "https://discord.gg/2D36VUmsYN",
   "devlogFeed": "https://anklebreaker-studio.com/devlog/feed.xml",
   "careersUrl": "https://anklebreaker-studio.com/careers",
-  "consultingUrl": "https://anklebreaker-consulting.com",
+  "consultingUrl": "https://anklebreaker-studio.com",
   "families": [
     {
       "id": "tavern",
@@ -132,7 +132,8 @@
         "id": "careers"
       },
       {
-        "id": "consulting"
+        "id": "consulting",
+        "hidden": true
       }
     ]
   },
